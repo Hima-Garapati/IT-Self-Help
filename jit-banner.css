@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.jit-banner {
+  background-color: #E9F2FF;
+  border: 1px solid #2684FF;
+  border-radius: 6px;
+  padding: 10px;
+}
